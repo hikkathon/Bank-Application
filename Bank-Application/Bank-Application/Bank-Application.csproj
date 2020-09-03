@@ -6,4 +6,8 @@
     <RootNamespace>Bank_Application</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BankLibrary\BankLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
